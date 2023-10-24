@@ -28,4 +28,4 @@ Before you begin, ensure you have met the following requirements:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/react-native-video-calling-app.git
+   git clone https://github.com/ayushsingh021/video_calling_app.git
